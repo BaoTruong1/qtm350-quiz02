@@ -1,0 +1,12 @@
+{
+  "hash": "e004b4998558b27605e4ee7064352e58",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Analysis of Changes in Life Expectancy, GDP per Capita, and Population\"\nauthor: \"Your Name\"\ndate: \"2023-10-05\"\nformat: html\n---\n\n\n# Introduction\n\nIn this analysis, we will explore the changes in life expectancy, GDP per capita, and population for a specific country over time. Understanding these metrics can provide insights into the country's development and overall well-being of its citizens.\n\n# Data Description\n\n::: {#64443d9f .cell execution_count=1}\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\nText(0, 0.5, 'Millions')\n```\n:::\n\n::: {.cell-output .cell-output-display}\n![](country_files/figure-html/cell-2-output-2.png){width=1197 height=449}\n:::\n:::\n\n\n",
+    "supporting": [
+      "country_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

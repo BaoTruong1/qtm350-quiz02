@@ -1,0 +1,12 @@
+{
+  "hash": "966f047fbf50bd68b259a5a503bd2b68",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Life Expectancy and GDP Analysis\"\nauthor: \"Your Name\"\ndate: \"2023-10-01\"\nformat: html\n---\n\n\n# Introduction\n\nThis report analyzes the relationship between life expectancy and GDP.\n\n# Data\n\nImport the data from Gapminder\n\n::: {#f5932139 .cell execution_count=1}\n\n::: {.cell-output .cell-output-display}\n![](life-gdp_files/figure-html/cell-2-output-1.png){width=600 height=411}\n:::\n:::\n\n\n# Analysis\n\nInclude your analysis code and results here.\n\n# Conclusion\n\nSummarize your findings here.\n\n",
+    "supporting": [
+      "life-gdp_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

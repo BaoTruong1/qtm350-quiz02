@@ -1,0 +1,12 @@
+{
+  "hash": "3f7117adf16b609895d08946ad53f7be",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Life Population Analysis\"\nauthor: \"Admin\"\ndate: \"2023-10-05\"\nformat: html\n---\n\n\n# Life Population Analysis\n\nThis document provides an analysis of life population data.\n\n## Introduction\n\nIn this section, we introduce the dataset and the objectives of the analysis.\n\n## Data Description\n\nImport the data from Gapminder and draw a graph.\n\n::: {#7fb9db22 .cell execution_count=1}\n\n::: {.cell-output .cell-output-display}\n![](life-population_files/figure-html/cell-2-output-1.png){width=583 height=411}\n:::\n:::\n\n\n",
+    "supporting": [
+      "life-population_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

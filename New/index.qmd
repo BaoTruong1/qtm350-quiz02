@@ -1,0 +1,8 @@
+---
+title: "An analyis of countries"
+---
+
+This is an analysis of countries throughtout the world using the Gapminder dataset, which contains a lot of variables about a lot of countries
+This is an analysis of life and GDP [[link](life-gdp.html)]
+This is an analysis of life and poulation [[link](life-population.html)]
+This is an analysis of Vietnam [[link](country.html)]

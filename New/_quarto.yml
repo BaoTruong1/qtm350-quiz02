@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "New"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Life & GDP Analysis"
+        href: life-gdp.qmd
+      - text: "Life & Population Analysis"
+        href: life-population.qmd
+      - text: "Country"
+        href: country.qmd
+      - text: "About Us" 
+        href: about.qmd
+format:
+  html:
+    theme: pandoc
+    css: styles.css
+    toc: true
+
+
+

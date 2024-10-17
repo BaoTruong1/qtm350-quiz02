@@ -1,0 +1,24 @@
+---
+title: "Life Population Analysis"
+author: "Admin"
+date: "2023-10-05"
+format: html
+---
+
+# Life Population Analysis
+
+This document provides an analysis of life population data.
+
+## Introduction
+
+In this section, we introduce the dataset and the objectives of the analysis.
+
+## Data Description
+
+Import the data from Gapminder and draw a graph.
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+data = pd.read_csv("../gapminder.csv")
+plt.scatter(data["life_expectancy"], data["population_millions"])
+```

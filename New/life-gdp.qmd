@@ -1,0 +1,28 @@
+---
+title: "Life Expectancy and GDP Analysis"
+author: "Your Name"
+date: "2023-10-01"
+format: html
+---
+
+# Introduction
+
+This report analyzes the relationship between life expectancy and GDP.
+
+# Data
+
+Import the data from Gapminder and draw a graph.
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+data = pd.read_csv("../gapminder.csv")
+plt.scatter(data["life_expectancy"], data["gdp_per_capita"])
+```
+
+# Analysis
+
+Include your analysis code and results here.
+
+# Conclusion
+
+Summarize your findings here.
